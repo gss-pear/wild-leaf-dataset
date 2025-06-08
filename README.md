@@ -5,3 +5,16 @@ Training a wild pear leaves recognition and classification model requires inputt
 The pear leaf dataset was randomly divided into training set, validation set, and testing set in the ratio of 7:2:1 for training, validation, and prediction processes, respec-tively. The image data was manually labeled using the LabelImg tool.
 
 The wild-leaf-dataset is composed of the "images" folder containing leaf images and the "labels" folder containing label files corresponding to leaf images.
+
+
+
+
+
+# Data Availability Statement
+Given the substantial size of the dataset (59.83 GB), we provide two access options:
+
+Baidu Netdisk: Download via https://pan.baidu.com/s/1k7_wAcWq8t-93ozX6IQpVQ (Extraction code: leaf)
+
+Email Request: Contact the corresponding author (email: dongxingguangde@126.com) for a data copy
+
+We guarantee response within 3 business days and will maintain data accessibility. Please notify us via email if any access issues occur.
